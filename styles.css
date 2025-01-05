@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	border-width:1px;
+	display: block;
+	text-align:center;
+	border-radius:5px;
+	border-color:black;
+	border-style:solid;
+}
+.player_two{
+	background-color: rgb(255, 255, 255); 
+	padding:5%; 
+	border-radius:5px;
+}
